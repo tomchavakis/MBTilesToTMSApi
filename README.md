@@ -30,4 +30,4 @@ I use the ConvertGoogleTileToTMSTile formula from
 https://geopbs.codeplex.com/
 
 
-https://github.com/tomchavakis/MBTilesToTMSApi/tree/master/MBTilesToTMS.API/Content/images/countries.png
+![ScreenShot](https://github.com/tomchavakis/MBTilesToTMSApi/tree/master/MBTilesToTMS.API/Content/images/countries.png)
