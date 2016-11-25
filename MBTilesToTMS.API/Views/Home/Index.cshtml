@@ -1,0 +1,23 @@
+﻿<link href="~/Content/leaflet.css" rel="stylesheet" />
+<script src="~/Scripts/leaflet-0.7.3.min.js"></script>
+
+
+<div class="row">
+    <div id="container">
+        <div id="map" style="width: 1280px; height: 600px;"></div>
+    </div>
+</div>
+
+
+
+@section scripts{
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            var map = L.map('map').setView([51.505, -0.09], 2);
+
+            L.tileLayer('http://localhost:54389/api/map/{z}/{x}/{y}', { minZoom: 1, maxZoom: 6, opacity: 1 }).addTo(map);
+
+        });
+    </script>
+}
