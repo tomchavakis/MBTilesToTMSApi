@@ -28,3 +28,6 @@ L.tileLayer('http://localhost:54389/api/map/{z}/{x}/{y}', { minZoom: 1, maxZoom:
 # Resources
 I use the ConvertGoogleTileToTMSTile formula from
 https://geopbs.codeplex.com/
+
+
+![Alt text](/Content/images/countries.png)
