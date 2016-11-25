@@ -30,4 +30,4 @@ I use the ConvertGoogleTileToTMSTile formula from
 https://geopbs.codeplex.com/
 
 
-![Alt text](/Content/images/countries.png)
+![Alt text](https://github.com/tomchavakis/MBTilesToTMSApi/tree/master/MBTilesToTMS.API/Content/images/countries.png "Optional title")
